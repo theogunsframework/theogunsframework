@@ -55,7 +55,7 @@ export default function Hero() {
         <h1
           className="font-display leading-[0.88] tracking-wider mb-5 animate-slide-up"
           style={{
-            fontSize: "clamp(2.5rem, 10vw, 7.5rem)",
+            fontSize: "clamp(4rem, 10vw, 7.5rem)",
             animationDelay: "0.2s",
           }}
         >
